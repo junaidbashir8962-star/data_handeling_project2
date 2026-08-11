@@ -1,5 +1,6 @@
 streamlit
+pandas
+openpyxl
 pymongo
 dnspython
-pandas
 certifi

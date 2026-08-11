@@ -1,0 +1,134 @@
+{
+  "active_trade_areas": {
+    "standalone_areas": [
+      "SUI GAS",
+      "HBFC",
+      "LEEL",
+      "BANKERS TOWN",
+      "STATE LIFE",
+      "FORMANITES",
+      "KAMAHAN",
+      "AASHIANA",
+      "NISHAT COLONY",
+      "ASKARI 8"
+    ],
+    "grouped_zones": {
+      "FEROZ PUR ROAD": [
+        "SUFIABAD",
+        "ATTARI",
+        "Nishter Colony",
+        "SALMAN PARK",
+        "GULSHAN YASEEN COLONY"
+      ],
+      "SHINGHAI ROAD": [
+        "AWAN MARKET",
+        "CHUNGI MUFT PURA",
+        "SITARA COLONY",
+        "BAHADRABAD",
+        "BANDIAN WALA"
+      ],
+      "GHAZI ROAD": [
+        "CHARRAR PIND",
+        "Punjab SOCIETY",
+        "DEFENCE FORT",
+        "JAVED COLONY",
+        "SHAUKAT TOWN",
+        "NISHTER TOWN",
+        "GUL COLONY",
+        "GULISTAN COLONY",
+        "Gulshan Colony",
+        "MUNAWRABAD",
+        "ALI COLONY",
+        "FIRDOUS PARK",
+        "FEROZPUR ROAD",
+        "KAINCHI AMER SIDHU"
+      ],
+      "WALTON ROAD": [
+        "EDEN COTAGES",
+        "FORT VILLAS",
+        "SUPER TOWN",
+        "NEW SUPER TOWN",
+        "IQBAL PARK",
+        "CAVALRY GROUND",
+        "KORRY STOP",
+        "SHAH TAJ COLONY",
+        "YASRAB COLONY",
+        "SHAMA COLONY",
+        "QADRI COLONY",
+        "PIR COLONY",
+        "FAROOQ COLONY",
+        "AL NOOR TOWN",
+        "LDA",
+        "SHERAZ VILLAS",
+        "ABID ROAD ISLAM NAGAR",
+        "GHOSIA COLONY",
+        "SHAHEEN COLONY",
+        "MADINA COLONY",
+        "REHMAT COLONY",
+        "IKRAMABAD",
+        "RAILWAY OFFICERS COLONY"
+      ],
+      "PUNJAB SMALL INDUSTRIES": [
+        "UBL Socity"
+      ],
+      "DHA PHASE 1": [
+        "Block A",
+        "Block B",
+        "Block C",
+        "Block D",
+        "Block E",
+        "Block F",
+        "Block G",
+        "Block H",
+        "Block J",
+        "Block K",
+        "Block L",
+        "Block M",
+        "Block N",
+        "Block P"
+      ],
+      "DHA PHASE 2": [
+        "Block Q",
+        "Block R",
+        "Block S",
+        "Block T",
+        "Block U",
+        "Block V"
+      ],
+      "DHA PHASE 3": [
+        "Block W",
+        "Block X",
+        "Block XX",
+        "Block Y",
+        "Block Z"
+      ],
+      "DHA PHASE 4": [
+        "Block AA",
+        "Block BB",
+        "Block CC",
+        "Block DD",
+        "Block EE",
+        "Block FF",
+        "Block GG",
+        "Block HH",
+        "Block JJ",
+        "Block KK"
+      ],
+      "DHA PHASE 5": [
+        "Block A",
+        "Block B",
+        "Block C",
+        "Block D",
+        "Block E",
+        "Block F",
+        "Block G",
+        "Block H",
+        "Block J",
+        "Block K",
+        "Block L",
+        "Block M",
+        "Block N"
+      ]
+    }
+  }
+}
